@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="ground.png">image/GROUND.png</file>
+        <file alias="bird.png">image/Normal_Bird_1.png</file>
+        <file alias="bg.png">image/BACKGROUND.png</file>
+        <file alias="bgb.png">image/backgroundblue.png</file>
+        <file alias="re.png">image/restart.png</file>
+        <file alias="pig.png">image/pig.png</file>
+        <file alias="parallel_obstacle.png">image/thinwood.png</file>
+        <file alias="vertical_obstacle.png">image/thinwood1.png</file>
+        <file alias="catapult.png">image/shooter.png</file>
+        <file alias="black.png">image/black.png</file>
+        <file alias="blue.png">image/blue.png</file>
+        <file alias="green.png">image/green.png</file>
+        <file alias="white.png">image/white.png</file>
+        <file alias="yellow.png">image/yellow.png</file>
+        <file alias="exit.png">image/exit.png</file>
+        <file alias="bgm.mp3">image/AngryBirds BGM.mp3</file>
+        <file alias="wee.mp3">image/Crossfire Angry Birds Sound Effect-17.4-18.8.mp3</file>
+    </qresource>
+</RCC>
